@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+
+# specify paths
+binary_path="/home/wenchang/EMOD/build/x64/Release/Eradication/Eradication"
+config_file="config.json"
+input_path="/home/wenchang/EMOD-InputData/Namawala"
+output_path="output"
+
+# commission job
+$binary_path -C $config_file  -I $input_path -O $output_path
