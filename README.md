@@ -22,7 +22,7 @@ Metcalf et al. (2017): [Identifying climate drivers of infectious disease dynami
 
 Katureebe et al. (2016): [Measures of Malaria Burden after Long-Lasting Insecticidal Net Distribution and Indoor Residual Spraying at Three Sites in Uganda: A Prospective Observational Study](https://doi.org/10.1371/journal.pmed.1002167), PLOS
 
-Mori et al. (2015): [Meteorologically Driven Simulations of Dengue Epidemics in San Juan, PR](https://doi.org/10.1371/journal.pntd.0004002), PLoS Negl Trop Dis
+Morin et al. (2015): [Meteorologically Driven Simulations of Dengue Epidemics in San Juan, PR](https://doi.org/10.1371/journal.pntd.0004002), PLoS Negl Trop Dis
 
 White et al. (2011): [Modelling the impact of vector control interventions on Anopheles gambiae population dynamics](https://doi.org/10.1186/1756-3305-4-153), Parasites & Vectors
 
