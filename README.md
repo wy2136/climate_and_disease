@@ -26,7 +26,7 @@ Mori et al. (2015): [Meteorologically Driven Simulations of Dengue Epidemics in 
 
 White et al. (2011): [Modelling the impact of vector control interventions on Anopheles gambiae population dynamics](https://doi.org/10.1186/1756-3305-4-153), Parasites & Vectors
 
-Grefell et al. (2002): <a href="https://doi.org/10.1890/0012-9615(2002)072[0185:DOMESN]2.0.CO;2">DYNAMICS OF MEASLES EPIDEMICS: SCALING NOISE, DETERMINISM, AND PREDICTABILITY WITH THE TSIR MODEL</a>, Ecological Monographs
+Grenfell et al. (2002): <a href="https://doi.org/10.1890/0012-9615(2002)072[0185:DOMESN]2.0.CO;2">DYNAMICS OF MEASLES EPIDEMICS: SCALING NOISE, DETERMINISM, AND PREDICTABILITY WITH THE TSIR MODEL</a>, Ecological Monographs
 
 ### MJO 
 
