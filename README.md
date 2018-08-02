@@ -16,6 +16,8 @@ Examine the relationship between climate and tropical infectious disease, especi
 
 ## Reference
 
+lacono et al. (2018): [Environmental limits of Rift Valley fever revealed using ecoepidemiological mechanistic models](https://doi.org/10.1073/pnas.1803264115), PNAS
+
 Baker et al. (2018): [Dynamic response of airborne infections to climate change: predictions for varicella](https://doi.org/10.1007/s10584-018-2204-4), Climatic Chage
 
 Metcalf et al. (2017): [Identifying climate drivers of infectious disease dynamics: recent advances and challenges ahead](https://doi.org/10.1098/rspb.2017.0901), Proc. R. Soc. B
