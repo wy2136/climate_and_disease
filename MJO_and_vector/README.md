@@ -2,7 +2,8 @@
 
 ## Analysis
 
-[Jupyter Notebook](MJO_and_vector.ipynb)
+* [MJO and rainfall](rainfall_composite.ipynb)
+* [MJO and vector](MJO_and_vector.ipynb)
 
 ## Data
 
