@@ -1,5 +1,5 @@
 #
-.DS_Store
+*.DS_Store
 *.nc
 
 # Byte-compiled / optimized / DLL files
