@@ -9,7 +9,7 @@ Examine the relationship between climate and tropical infectious disease, especi
 
 ## Data
 
-[CHIRPS](http://chg.geog.ucsb.edu/data/chirps/)
+* [CHIRPS](http://chg.geog.ucsb.edu/data/chirps/)
 
 ## Online resources
 
@@ -17,9 +17,11 @@ Examine the relationship between climate and tropical infectious disease, especi
 
 ## Reference
 
-lacono et al. (2018): [Environmental limits of Rift Valley fever revealed using ecoepidemiological mechanistic models](https://doi.org/10.1073/pnas.1803264115), PNAS
-
 Baker et al. (2018): [Dynamic response of airborne infections to climate change: predictions for varicella](https://doi.org/10.1007/s10584-018-2204-4), Climatic Chage
+
+Hu et al. (2018): [Flood-induced mortality across the globe: Spatiotemporal pattern and influencing factors](https://doi.org/10.1016/j.scitotenv.2018.06.197), Science of the Total Environment
+
+lacono et al. (2018): [Environmental limits of Rift Valley fever revealed using ecoepidemiological mechanistic models](https://doi.org/10.1073/pnas.1803264115), PNAS
 
 Metcalf et al. (2017): [Identifying climate drivers of infectious disease dynamics: recent advances and challenges ahead](https://doi.org/10.1098/rspb.2017.0901), Proc. R. Soc. B
 
@@ -28,6 +30,8 @@ Katureebe et al. (2016): [Measures of Malaria Burden after Long-Lasting Insectic
 Morin et al. (2015): [Meteorologically Driven Simulations of Dengue Epidemics in San Juan, PR](https://doi.org/10.1371/journal.pntd.0004002), PLoS Negl Trop Dis
 
 White et al. (2011): [Modelling the impact of vector control interventions on Anopheles gambiae population dynamics](https://doi.org/10.1186/1756-3305-4-153), Parasites & Vectors
+
+Bjørnstad et al. (2002): [Dynamics of Measles Epidemics: Estimating Scaling of Transmission Rates Using a Time Series SIR Model](https://www.jstor.org/stable/3100023), Ecological Monographs
 
 Grenfell et al. (2002): <a href="https://doi.org/10.1890/0012-9615(2002)072[0185:DOMESN]2.0.CO;2">DYNAMICS OF MEASLES EPIDEMICS: SCALING NOISE, DETERMINISM, AND PREDICTABILITY WITH THE TSIR MODEL</a>, Ecological Monographs
 
