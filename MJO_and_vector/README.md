@@ -15,7 +15,7 @@
 
 ## Reference
 
-Katureebe et al. (2016): [Measures of Malaria Burden after Long-Lasting Insecticidal Net Distribution and Indoor Residual Spraying at Three Sites in Uganda: A Prospective Observational Study](https://doi.org/10.1371/journal.pmed.1002167), PLOS
+* Katureebe et al. (2016): [Measures of Malaria Burden after Long-Lasting Insecticidal Net Distribution and Indoor Residual Spraying at Three Sites in Uganda: A Prospective Observational Study](https://doi.org/10.1371/journal.pmed.1002167), PLOS
 
 
 ### MJO 
