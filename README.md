@@ -3,9 +3,9 @@ Examine the relationship between climate and tropical infectious disease, especi
 
 ## Analysis
 
-* [MJO and rainfall](MJO_and_vector/rainfall_composite.ipynb)
-* [MJO and vector](MJO_and_vector/MJO_and_vector.ipynb)
-* [EMOD output example](EMOD/1_Malaria_Sandbox_run2/output/EMOD_output.ipynb)
+* [MJO and rainfall](http://nbviewer.jupyter.org/github/wy2136/climate_and_disease/blob/master/MJO_and_vector/rainfall_composite.ipynb)
+* [MJO and vector](http://nbviewer.jupyter.org/github/wy2136/climate_and_disease/blob/master/MJO_and_vector/MJO_and_vector.ipynb)
+* [EMOD output example](http://nbviewer.jupyter.org/github/wy2136/climate_and_disease/blob/master/EMOD/1_Malaria_Sandbox_run2/output/EMOD_output.ipynb)
 
 ## Data
 
