@@ -2,8 +2,9 @@
 
 ## Analysis
 
-* [MJO and rainfall](rainfall_composite.ipynb)
-* [MJO and vector](MJO_and_vector.ipynb)
+* [MJO and rainfall](http://nbviewer.jupyter.org/github/wy2136/climate_and_disease/blob/master/MJO_and_vector/rainfall_composite.ipynb)
+* [MJO and vector](http://nbviewer.jupyter.org/github/wy2136/climate_and_disease/blob/master/MJO_and_vector/MJO_and_vector.ipynb)
+* [Vector extremes and rainfall](http://nbviewer.jupyter.org/github/wy2136/climate_and_disease/blob/master/MJO_and_vector/rainfall_composite.mosquito_extremes.ipynb)
 
 ## Data
 
