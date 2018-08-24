@@ -30,6 +30,8 @@ Examine the relationship between climate and tropical infectious disease, especi
 
 * Morin et al. (2015): [Meteorologically Driven Simulations of Dengue Epidemics in San Juan, PR](https://doi.org/10.1371/journal.pntd.0004002), PLoS Negl Trop Dis
 
+* Yamana and Eltahir (2013): [Incorporating the effects of humidity in a mechanistic model of Anopheles gambiae mosquito population dynamics in the Sahel region of Africa](https://doi.org/10.1186/1756-3305-6-235), Parasites & Vectors 
+
 * White et al. (2011): [Modelling the impact of vector control interventions on Anopheles gambiae population dynamics](https://doi.org/10.1186/1756-3305-4-153), Parasites & Vectors
 
 * Bjørnstad et al. (2002): [Dynamics of Measles Epidemics: Estimating Scaling of Transmission Rates Using a Time Series SIR Model](https://www.jstor.org/stable/3100023), Ecological Monographs
