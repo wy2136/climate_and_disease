@@ -1,8 +1,8 @@
 #
 *.DS_Store
 *.nc
+data/
 papers/
-chirps
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
